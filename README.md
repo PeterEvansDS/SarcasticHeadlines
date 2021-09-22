@@ -1,6 +1,6 @@
 # Sarcastic Headlines
 
-NLP Classification model built to determine whether a headline is sarcastic or not. 
+NLP classification model built to determine whether a headline is sarcastic or not. 
 
 
 
